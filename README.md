@@ -39,7 +39,7 @@ Ok, so you have read the brief and checked out the [designs](/design-assets/desi
    - If you created a new task or issue, ensure you specify if you are undertaking the task or if someone else is able to claim it.
    - Keep the issue updated with your progress, inactive issues will be reassigned.
 5. Create a branch for your task and complete the task.
-6. Pull from the upstream again, like we did in step 3. This is to ensure we still have the latest code.
+6. Pull from the upstream again, like we did in step 3. This is to ensure you that we still have the latest code.
    - `git pull upstream master`
 7. Commit and push the code to your fork.
 8. Create a pull request to have the changes merged into the origin.
